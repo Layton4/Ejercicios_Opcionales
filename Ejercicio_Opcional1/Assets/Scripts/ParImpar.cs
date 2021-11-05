@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class ParImpar: MonoBehaviour
 {
-    public int num = 0;
+    private int num = 0;
 
     // Start is called before the first frame update
     void Start()
